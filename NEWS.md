@@ -1,3 +1,10 @@
+## CytoMDS 1.6
+### CytoMDS 1.6.1
+- fixed unit tests with new version of ggplot2
+
+## CytoMDS 1.5
+(no devel)
+
 ## CytoMDS 1.3
 
 ### CytoMDS 1.3.7
